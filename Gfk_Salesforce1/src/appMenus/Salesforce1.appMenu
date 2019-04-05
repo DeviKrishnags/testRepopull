@@ -15,7 +15,7 @@
     </appMenuItems>
     <appMenuItems>
         <name>Dashboards</name>
-        <type>StandardAppMenuItem</type>
+        <type>StandardAppMenuItems</type>
     </appMenuItems>
     <appMenuItems>
         <name>Tasks</name>
@@ -43,7 +43,7 @@
     </appMenuItems>
     <appMenuItems>
         <name>ProcessInstanceWorkitem</name>
-        <type>StandardAppMenuItem</type>
+        <type>StandardAppMenuItems</type>
     </appMenuItems>
     <appMenuItems>
         <name>PendingInterviews</name>
